@@ -154,7 +154,7 @@ Este script:
 
 - carga los datos a MySQL
 
-- produce Defunciones_Completo.csv 
+- produce Defunciones_Completo.csv dentro de /Pages, que se usara para el dashboard
 
 4.- Ejecutar el dashboard 
 
