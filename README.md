@@ -1,5 +1,5 @@
 
-•Descargar y extraer toda la carpeta portafolio_proyecto completa en su pycharm, para evitar que las rutas se muevan. 
+•Descargar y extraer toda la carpeta portafolio_proyecto junta en su pycharm, para evitar que las rutas se muevan. 
 
 •Al momento de visualizar los dashboards su navegador no debe estar traducido ni en modo oscuro
 
