@@ -92,7 +92,7 @@ Antes de ejecutar el proyecto, se debe crear la base de datos vacía:
 
 **Todas las relaciones están contenidas en el archivo:**
 
-*base_defunciones.sql*
+*SQL/base_defunciones.sql*
 
 Este archivo .sql contiene:
 - Estructura final de la base de datos
@@ -101,7 +101,7 @@ Este archivo .sql contiene:
 - Llaves foráneas
 - Tipos de dato correctos
 
-El archivo se incluye para fines de revisión por el profesor.
+El archivo se incluye para fines de revisión.
 
 ## Environment Variables
 
