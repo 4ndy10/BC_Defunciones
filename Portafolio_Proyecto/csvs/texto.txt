@@ -1,1 +1,1 @@
-Archivo para que esta carpeta no esté vacía y Guthub no la elimine, totalmente inútil no hace nada no pierda su tiempo abriéndolo
+Archivo .txt para que la carpeta csv no quede vacía y GitHub la elimine, totalmente inútil no hace nada no pierda su tiempo abriéndolo
